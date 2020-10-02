@@ -1,0 +1,7 @@
+C:\Visual Stadio\CitizenPoliceAndThief\bin\Debug\CitizenPoliceAndThief.exe.config
+C:\Visual Stadio\CitizenPoliceAndThief\bin\Debug\CitizenPoliceAndThief.exe
+C:\Visual Stadio\CitizenPoliceAndThief\bin\Debug\CitizenPoliceAndThief.pdb
+C:\Visual Stadio\CitizenPoliceAndThief\obj\Debug\CitizenPoliceAndThief.csprojAssemblyReference.cache
+C:\Visual Stadio\CitizenPoliceAndThief\obj\Debug\CitizenPoliceAndThief.csproj.CoreCompileInputs.cache
+C:\Visual Stadio\CitizenPoliceAndThief\obj\Debug\CitizenPoliceAndThief.exe
+C:\Visual Stadio\CitizenPoliceAndThief\obj\Debug\CitizenPoliceAndThief.pdb
