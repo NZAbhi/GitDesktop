@@ -1,0 +1,13 @@
+C:\Visual Stadio\Harbor\obj\Debug\netcoreapp3.1\Harbor.csprojAssemblyReference.cache
+C:\Visual Stadio\Harbor\obj\Debug\netcoreapp3.1\Harbor.AssemblyInfoInputs.cache
+C:\Visual Stadio\Harbor\obj\Debug\netcoreapp3.1\Harbor.AssemblyInfo.cs
+C:\Visual Stadio\Harbor\obj\Debug\netcoreapp3.1\Harbor.csproj.CoreCompileInputs.cache
+C:\Visual Stadio\Harbor\bin\Debug\netcoreapp3.1\Harbor.exe
+C:\Visual Stadio\Harbor\bin\Debug\netcoreapp3.1\Harbor.deps.json
+C:\Visual Stadio\Harbor\bin\Debug\netcoreapp3.1\Harbor.runtimeconfig.json
+C:\Visual Stadio\Harbor\bin\Debug\netcoreapp3.1\Harbor.runtimeconfig.dev.json
+C:\Visual Stadio\Harbor\bin\Debug\netcoreapp3.1\Harbor.dll
+C:\Visual Stadio\Harbor\bin\Debug\netcoreapp3.1\Harbor.pdb
+C:\Visual Stadio\Harbor\obj\Debug\netcoreapp3.1\Harbor.dll
+C:\Visual Stadio\Harbor\obj\Debug\netcoreapp3.1\Harbor.pdb
+C:\Visual Stadio\Harbor\obj\Debug\netcoreapp3.1\Harbor.genruntimeconfig.cache
