@@ -4,15 +4,24 @@ using System.Text;
 
 namespace Harbor
 {
-    public abstract class Boat
+    public class Boat
     {
-        public abstract string BoatType { get; }
+        public string BoatType { get; set; }
 
-        public abstract string IdentityNumber { get; }
-        public abstract int Weight { get; }
-        public abstract int MaximumSpeed { get; }
-        public abstract  int DaysCout { get; set; }
+        public string IdentityNumber { get; set; }
+        public int Weight { get; set; }
+        public int MaximumSpeed { get; set; }
+        public int DaysCout { get; set; }
+        public Boat(string boatType, string identityNumber, int weight, int maximumSpeed, int daysCout)
+        {
+            BoatType = boatType;
+            IdentityNumber = identityNumber;
+            Weight = weight;
+            MaximumSpeed = maximumSpeed;
+            DaysCout = daysCout;
 
-      
+
+        }
+
     }
 }

@@ -5,4 +5,20 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="C:\Users\nuruz\.nuget\packages\epplus-udi-fork\4.5.16\contentFiles\any\netstandard2.0\readme.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="DockedBoatsInHarbor.xlsx" />
+    <None Remove="~%24DockedBoatsInHarbor.xlsx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus-UDI-Fork" Version="4.5.16" />
+    <PackageReference Include="EPPlus.Core.Extensions" Version="2.4.0" />
+    <PackageReference Include="IronXL.Excel" Version="2020.9.1" />
+    <PackageReference Include="Microsoft.Office.Interop.Excel" Version="15.0.4795.1000" />
+  </ItemGroup>
+
 </Project>

@@ -41,6 +41,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "EPPlus-UDI-Fork": {
+              "target": "Package",
+              "version": "[4.5.16, )"
+            },
+            "EPPlus.Core.Extensions": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "IronXL.Excel": {
+              "target": "Package",
+              "version": "[2020.9.1, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1000, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

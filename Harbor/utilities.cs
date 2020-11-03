@@ -7,7 +7,7 @@ namespace Harbor
 {
     public static class Utilities
     {
-        private static readonly Random random = new Random();
+        private static Random random = new Random();
         public static string GetRandomString(int length)
         {
             const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
